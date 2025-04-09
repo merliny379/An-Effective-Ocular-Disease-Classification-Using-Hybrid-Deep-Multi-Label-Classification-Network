@@ -1,0 +1,15 @@
+https://www.kaggle.com/datasets/linchundan/fundusimage1000
+
+
+
+BA  - Balanced Accuracy
+
+BM  - Bookmaker Informedness
+
+DOR - Diagnostic Odds Ratio 
+
+FM  - Fowlkes–Mallows Index
+
+FOR - False Omission Rate
+
+PT  - Prevalence Threshold
